@@ -1,0 +1,12 @@
+#Implement a python script using for loop that loops over a sequence.
+print('Iterating list')
+fruits=['apple','grapes','strawberry','guava']
+for f in fruits:
+    print(f)
+
+"""output:
+Iterating list
+apple
+grapes
+strawberry
+guava"""
