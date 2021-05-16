@@ -6,8 +6,8 @@ else:
     print('not eligible for voting')
 
 """output:
-        enter age : 15
+        enter age : 11
         not eligible for voting
         
-        enter age : 19
+        enter age : 20
         eligible for voting"""
