@@ -10,3 +10,7 @@ for n in range(2,n+1):
  if prime: 
  Sum=Sum+n 
 print("Sum={}".format(Sum)) 
+'''
+Output: 
+sum=207851932781152 
+'''
